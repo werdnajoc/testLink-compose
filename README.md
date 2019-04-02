@@ -10,3 +10,8 @@
 ```console 
 docker-compose build && docker-compose up
 ```
+```
+open: http://localhost/
+username: admin
+password: admin
+```
