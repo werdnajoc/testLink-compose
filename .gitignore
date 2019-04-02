@@ -1,2 +1,4 @@
 #folder generate for jetbrains editors
 .idea/
+
+**/.DS_Store
